@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Project.Models.OwnerData>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Welcome to Our PGs</h1>
+
+<p>
+    <div class="text-center">
+        <a asp-action="CreateOwnerData" class="btn btn-success">Create New</a>
+    </div>
+</p>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="~/Images/@item.ImageFilePath" height="350px" width="250px" class="card-img-top" alt="User Image">
+                <div class="card-body">
+                    <div class="property">
+                        <span>Name:</span> <h5 class="card-title">@Html.DisplayFor(modelItem => item.Name)</h5>
+                    </div>
+                    <div class="property">
+                        <span>City:</span> <p class="card-text">@Html.DisplayFor(modelItem => item.City)</p>
+                    </div>
+                    <div class="property">
+                        <span>Phone:</span> <p class="card-text">@Html.DisplayFor(modelItem => item.PhoneNo)</p>
+                    </div>
+                    <div class="property">
+                        <span>PanNo:</span> <p class="card-text">@Html.DisplayFor(modelItem => item.PanNumber)</p>
+                    </div>
+                    <div class="property">
+                        <span>PinCode:</span> <p class="card-text">@Html.DisplayFor(modelItem => item.PinCode)</p>
+                    </div>
+
+                    <a href="@Url.Action("Delete", new { id = item.Id })" class="btn btn-outline-danger">Delete</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<style>
+    .property {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 5px;
+    }
+
+        .property span {
+            font-weight: bold;
+            margin-right: 10px;
+        }
+</style>

@@ -1,0 +1,461 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Project.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\0820fce2-a564-4192-b0bd-9e46ba3291bb-Image20240106230039 - Copy.png",
+      "PackagePath": "staticwebassets\\Images\\0820fce2-a564-4192-b0bd-9e46ba3291bb-Image20240106230039 - Copy.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\0993ea39-1055-4a29-8bf7-d11b13409eda-Screenshot 2024-01-10 225938.jpg",
+      "PackagePath": "staticwebassets\\Images\\0993ea39-1055-4a29-8bf7-d11b13409eda-Screenshot 2024-01-10 225938.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\1496d9b3-bff8-4f8a-83af-3ca5c964b94f-Screenshot (6).png",
+      "PackagePath": "staticwebassets\\Images\\1496d9b3-bff8-4f8a-83af-3ca5c964b94f-Screenshot (6).png"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\1f23a803-43b9-4351-b181-71da8f631d27-Image20240107014016.png",
+      "PackagePath": "staticwebassets\\Images\\1f23a803-43b9-4351-b181-71da8f631d27-Image20240107014016.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\24603414-da27-4b9e-b148-62ea6a04c79a-WhatsApp Image 2023-12-20 at 3.03.18 PM.jpeg",
+      "PackagePath": "staticwebassets\\Images\\24603414-da27-4b9e-b148-62ea6a04c79a-WhatsApp Image 2023-12-20 at 3.03.18 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\2b155170-b8ec-4741-9992-1e534e8f1ea2-download.jpg",
+      "PackagePath": "staticwebassets\\Images\\2b155170-b8ec-4741-9992-1e534e8f1ea2-download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\3.jpg",
+      "PackagePath": "staticwebassets\\Images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\30d31040-46c3-48f4-b209-9e7147ae3e33-Screenshot (8).png",
+      "PackagePath": "staticwebassets\\Images\\30d31040-46c3-48f4-b209-9e7147ae3e33-Screenshot (8).png"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\58af14ec-0b70-441d-9673-57b3c6c23e05-Andrew.jpg",
+      "PackagePath": "staticwebassets\\Images\\58af14ec-0b70-441d-9673-57b3c6c23e05-Andrew.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\5cad45de-fe1d-4d33-a299-84ce008062ac-230940520040.png",
+      "PackagePath": "staticwebassets\\Images\\5cad45de-fe1d-4d33-a299-84ce008062ac-230940520040.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\798b7d86-82b2-4604-8053-2de0d098f09a-WhatsApp Image 2023-12-20 at 3.00.23 PM.jpeg",
+      "PackagePath": "staticwebassets\\Images\\798b7d86-82b2-4604-8053-2de0d098f09a-WhatsApp Image 2023-12-20 at 3.00.23 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\8.jpg",
+      "PackagePath": "staticwebassets\\Images\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\8137104f-68d1-4a8a-9de6-1bcf038d236c-Screenshot (5).png",
+      "PackagePath": "staticwebassets\\Images\\8137104f-68d1-4a8a-9de6-1bcf038d236c-Screenshot (5).png"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\84ed0259-5304-4316-b5a1-2f313dd1c63a-Screenshot (220).png",
+      "PackagePath": "staticwebassets\\Images\\84ed0259-5304-4316-b5a1-2f313dd1c63a-Screenshot (220).png"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\9.jpg",
+      "PackagePath": "staticwebassets\\Images\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\9f1904bc-eb76-493d-91b8-4f3e6e0ef6a7-Screenshot 2024-01-10 225938.jpg",
+      "PackagePath": "staticwebassets\\Images\\9f1904bc-eb76-493d-91b8-4f3e6e0ef6a7-Screenshot 2024-01-10 225938.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\Alisha.jpg",
+      "PackagePath": "staticwebassets\\Images\\Alisha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\Mehul.png",
+      "PackagePath": "staticwebassets\\Images\\Mehul.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\Shoeb.jpg",
+      "PackagePath": "staticwebassets\\Images\\Shoeb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\Shwetal.jpg",
+      "PackagePath": "staticwebassets\\Images\\Shwetal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\a8456081-4411-471a-8a13-5f9a9931ad33-Image20240101002450.png",
+      "PackagePath": "staticwebassets\\Images\\a8456081-4411-471a-8a13-5f9a9931ad33-Image20240101002450.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\b0f97772-6430-4f9d-bc13-b1c87bb6dc02-Image20231216162837.png",
+      "PackagePath": "staticwebassets\\Images\\b0f97772-6430-4f9d-bc13-b1c87bb6dc02-Image20231216162837.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\b1f57f16-ed55-430a-89bb-d9ee5d895c4d-Image20231216162837.png",
+      "PackagePath": "staticwebassets\\Images\\b1f57f16-ed55-430a-89bb-d9ee5d895c4d-Image20231216162837.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\c30b6c9c-2bae-4e00-8085-e4d34a71519a-Screenshot (210).png",
+      "PackagePath": "staticwebassets\\Images\\c30b6c9c-2bae-4e00-8085-e4d34a71519a-Screenshot (210).png"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\cleaner.jpg",
+      "PackagePath": "staticwebassets\\Images\\cleaner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\cleaner2.jpg",
+      "PackagePath": "staticwebassets\\Images\\cleaner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\cleaner3.jpg",
+      "PackagePath": "staticwebassets\\Images\\cleaner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\cleaner4.jpg",
+      "PackagePath": "staticwebassets\\Images\\cleaner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\d248e486-8102-4bca-849d-8bfbd9eb945b-Andrew.jpg",
+      "PackagePath": "staticwebassets\\Images\\d248e486-8102-4bca-849d-8bfbd9eb945b-Andrew.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\ee80b277-e99c-4cc3-b1a5-9343a43001f4-Screenshot (219).png",
+      "PackagePath": "staticwebassets\\Images\\ee80b277-e99c-4cc3-b1a5-9343a43001f4-Screenshot (219).png"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\electrician.jpg",
+      "PackagePath": "staticwebassets\\Images\\electrician.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\electrician2.jpg",
+      "PackagePath": "staticwebassets\\Images\\electrician2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\electrician3.jpg",
+      "PackagePath": "staticwebassets\\Images\\electrician3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\electrician4.jpg",
+      "PackagePath": "staticwebassets\\Images\\electrician4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\jhadu.jpg",
+      "PackagePath": "staticwebassets\\Images\\jhadu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\maid2.jpg",
+      "PackagePath": "staticwebassets\\Images\\maid2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\maid3.jpg",
+      "PackagePath": "staticwebassets\\Images\\maid3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\maid4.jpg",
+      "PackagePath": "staticwebassets\\Images\\maid4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\plumber.jpg",
+      "PackagePath": "staticwebassets\\Images\\plumber.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\plumber2.jpg",
+      "PackagePath": "staticwebassets\\Images\\plumber2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\plumber3.jpg",
+      "PackagePath": "staticwebassets\\Images\\plumber3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\plumber4.jpg",
+      "PackagePath": "staticwebassets\\Images\\plumber4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\prasad.png",
+      "PackagePath": "staticwebassets\\Images\\prasad.png"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\wifi1.jpg",
+      "PackagePath": "staticwebassets\\Images\\wifi1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\wifi2.jpg",
+      "PackagePath": "staticwebassets\\Images\\wifi2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\wifi3.jpg",
+      "PackagePath": "staticwebassets\\Images\\wifi3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\Images\\wifi4.jpg",
+      "PackagePath": "staticwebassets\\Images\\wifi4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\css\\Contactus.css",
+      "PackagePath": "staticwebassets\\css\\Contactus.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\css\\Home.css",
+      "PackagePath": "staticwebassets\\css\\Home.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mehul\\Downloads\\ProjectMehul2\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Project.props",
+      "PackagePath": "build\\Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Project.props",
+      "PackagePath": "buildMultiTargeting\\Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Project.props",
+      "PackagePath": "buildTransitive\\Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

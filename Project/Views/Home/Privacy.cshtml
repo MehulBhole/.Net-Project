@@ -1,0 +1,219 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<html>
+<head>
+    <style>
+        /* body {
+            font-family: Arial, sans-serif;
+           //background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        } */
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        h1, h2, h3 {
+            color: #333;
+        }
+
+        p {
+            color: #666;
+        }
+
+       /*  .maincontactus {
+            background-color: #fff;
+            margin: 20px;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        } */
+
+        .maincontactus {
+            padding: 20px;
+        }
+
+        .containercontact {
+            padding: 20px;
+        }
+
+        /* .containercontact {
+            max-width: 800px;
+            margin: auto;
+        } */
+
+       /*  h1 {
+            color: #333;
+        }
+
+        p {
+            color: #666;
+        } */
+
+        .contact-box {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .contact-left {
+            flex: 1;
+            padding-right: 20px;
+        }
+
+        .contact-right {
+            flex: 1;
+            padding-left: 20px;
+            background-color: #E0E0E0;
+        }
+
+        /* form {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+        } */
+
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .input-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 15px;
+        }
+
+        .input-group {
+            flex: 1;
+            margin-right: 10px;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        input,
+        textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        button.btntag {
+            background-color: #4caf50;
+            color: #fff;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+            button.btntag:hover {
+                background-color: #45a049;
+            }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        /* .fontsize {
+            font-size: 14px;
+        } */
+    </style>
+</head>
+
+<body>
+    <div class="maincontactus">
+        <div class="containercontact">
+            <h1>Connect With us</h1>
+            <p>
+                We would love to respond to your queries and help you succeed. <br />
+                Feel free to get in touch with us
+            </p>
+            <div class="contact-box">
+                <div class="contact-left">
+                    <h3>Send your Request</h3>
+                    <form>
+                        <div class="input-row">
+                            <div class="input-group">
+                                <label>Name</label>
+                                <input type="text" placeholder="Enter your name" />
+                            </div>
+                            <div class="input-group">
+                                <label>Phone</label>
+                                <input type="number" placeholder="Enter your Number" />
+                            </div>
+                        </div>
+
+                        <div class="input-row">
+                            <div class="input-group">
+                                <label>E-mail</label>
+                                <input type="email" placeholder="Enter Your Email" />
+                            </div>
+                            <div class="input-group">
+                                <label>Subject</label>
+                                <input type="text" placeholder="Enter Your Subject" />
+                            </div>
+                        </div>
+
+                        <label>Message</label>
+                        <textarea rows="5" placeholder="Text Area"></textarea>
+                        <button class="btntag" type="submit">Send</button>
+                    </form>
+                </div>
+                <div class="contact-right">
+                    <h3>Reach Us</h3>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>Email</td>
+                                <td>Contactus@example.com</td>
+                            </tr>
+                            <tr>
+                                <td>Phone</td>
+                                <td>9876543210</td>
+                            </tr>
+                            <tr>
+                                <td>Fax</td>
+                                <td>+1-907-555-1234 for the US and +44-20-1224-3456 for the UKDelhi</td>
+                            </tr>
+                            <tr>
+                                <td>Address</td>
+                                <td>
+                                    Cecilia Chapman 711-2880 Nulla St. Mankato Mississippi 96522
+                                    (257) 563-7401 Iris Watson P.O. Box 283 8562 Fusce Rd.
+                                    Frederick Nebraska 20620 (372) 587-2335 Celeste Slater
+                                    606-3727 Ullamcorper. Street Roseville NH 11523 (786) 713-8616
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td></td>
+                                <td class="fontsize"><b> “Exceeding your expectations, consistently.” “We don't just sell products, we provide solutions.” “Your happiness is our success.” “We're here to help you, every step of the way.”</b></td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

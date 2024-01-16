@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TechBlendLiving</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Project.styles.css" asp-append-version="true" />
+    <style>
+        .full-footer {
+            background-color: #f2f2f2;
+            padding: 20px 0; 
+        }
+
+        .footer-wrap {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #202020;
+            color: #fff; 
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Project</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Home" asp-action="Privacy">Contact Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Home" asp-action="AboutUs">About Us</a>
+                        </li>
+                    </ul>
+                </div>
+                <partial name="_LoginPartial"></partial>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <br /><br /><br />
+    <div class="full-footer">
+        <div class='Footer'>
+            <div class='container'>
+                <div class='row' id="raw">
+                    <div class='col-md-6 col-lg-3  col-12 ft-1'>
+                        <h4 id="eve">TechBlendLiving</h4>
+                        <p id="para">
+                            The Common Floor is another behemoth you should be aware of. The company is responsible for helping you with searching properties, listing properties, vendor management, and even a system to link two buyers and sellers living in the same apartment through their management directory. Providing services in more than 120 cities is no small task, but Common Floor has got you covered, literally and figuratively!
+                        </p>
+                    </div>
+                    <div class='col-md-6 col-lg-2  col-12 ft-2'>
+                        <h5>Quick Links</h5>
+                        <ul>
+                            <li class="nav-item">
+                                <a href="/Home/AboutUs" class="nav-link">About Us</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="/Home/Privacy" class="nav-link">Contact Us</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class='col-md-6 col-lg-3  col-12 ft-3'>
+                        <h5>Follow TechBlendLiving</h5>
+                        <div class='footer-icons'>
+                            <i class="fab fa-facebook"></i>
+                            <i class="fa-brands fa-x-twitter"></i>
+                            <i class="fab fa-instagram"></i>
+                            <i class="fab fa-youtube"></i>
+                        </div>
+                    </div>
+                    <div class='col-md-6 col-lg-3  col-12 ft-4'>
+                        <h5>Contact Info</h5>
+                        <div class='contact'>
+                            <p><i class="fas fa-phone-volume"></i>+91 9867253789</p>
+                            <p><i class="fas fa-envelope"></i>techblend143@gmail.com</p>
+                            <p><i class="fas fa-map-marker"></i>Mumbai, Maharashtra, India.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class='footer-wrap'>
+                Copyright. TechBlendLiving, All rights reserved.
+        </div>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
